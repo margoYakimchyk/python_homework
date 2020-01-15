@@ -1,1 +1,1 @@
-# python_homework
+# Repository for Python training
